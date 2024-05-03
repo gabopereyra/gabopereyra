@@ -26,7 +26,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35px" height="35px" style="margin-right: 10px;"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35px" height="35px" style="margin-right: 10px;"/></a>
 <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/371da8ac6eacab90e0d2c2d97ea969b6203c25ae/angular.png" width="35px" height="35px" style="margin-right: 10px;"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/0a9d739ef0b609fc756f45938e89770c0c3dbdc1/react.png" width="35px" height="35px" style="margin-right: 10px;"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/c92d2f54fc97f21e9e01b8fa9178df935ef44e37/react.svg" width="35px" height="35px" style="margin-right: 10px;"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="35px" height="35px" style="margin-right: 10px;"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="35px" height="35px" style="margin-right: 10px;"/></a>
 </div>
